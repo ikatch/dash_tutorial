@@ -1,18 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4179eda4-8878-4b4c-a457-0bdb63fe7bed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/part_04/01_interactive_visualizations.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dash_tutorial.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dash_tutorial.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1mS2JLA5E58ilRTZGzvqPZWocnw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="01_interactive_visualizations" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="dash_tutorial" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/part_04" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part_04/01_interactive_visualizations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.01_interactive_visualizations" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4179eda4-8878-4b4c-a457-0bdb63fe7bed" name="Default Changelist" comment="" />
+      <created>1609472599195</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609472599195</updated>
+      <workItem from="1609472602686" duration="623000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1609472727363</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609472727363</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="309" y="64" key="CommitChangelistDialog2" timestamp="1609472727095">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="309" y="64" key="CommitChangelistDialog2/0.25.1440.875@0.25.1440.875" timestamp="1609472727095" />
+    <state x="737" y="208" key="FileChooserDialogImpl" timestamp="1609473167293">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="737" y="208" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1609473167293" />
+    <state x="579" y="360" key="Github.ShareDialog" timestamp="1609472870611">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="579" y="360" key="Github.ShareDialog/0.25.1440.875@0.25.1440.875" timestamp="1609472870611" />
+    <state width="793" height="245" key="GridCell.Tab.0.bottom" timestamp="1609473238491">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="793" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1609473238491" />
+    <state width="793" height="245" key="GridCell.Tab.0.center" timestamp="1609473238489">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="793" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1609473238489" />
+    <state width="793" height="245" key="GridCell.Tab.0.left" timestamp="1609473238488">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="793" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1609473238488" />
+    <state width="793" height="245" key="GridCell.Tab.0.right" timestamp="1609473238490">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="793" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1609473238490" />
+    <state x="458" y="86" key="SettingsEditor" timestamp="1609473187804">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1609473187804" />
+    <state x="320" y="199" key="Vcs.Push.Dialog.v2" timestamp="1609472767002">
+      <screen x="0" y="25" width="1440" height="875" />
+    </state>
+    <state x="320" y="199" key="Vcs.Push.Dialog.v2/0.25.1440.875@0.25.1440.875" timestamp="1609472767002" />
     <state x="397" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1609472635898">
       <screen x="0" y="25" width="1440" height="875" />
     </state>
     <state x="397" y="291" key="com.intellij.ide.util.TipDialog/0.25.1440.875@0.25.1440.875" timestamp="1609472635898" />
+    <state x="720" y="245" key="git4idea.merge.GitPullDialog" timestamp="1609472952375">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="720" y="245" key="git4idea.merge.GitPullDialog/0.0.1440.900@0.0.1440.900" timestamp="1609472952375" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/dash_tutorial$01_interactive_visualizations.coverage" NAME="01_interactive_visualizations Coverage Results" MODIFIED="1609473247004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/part_04" />
   </component>
 </project>
