@@ -19,9 +19,9 @@ styles = {
 }
 
 df = pd.DataFrame({
-    "x": [1,2,1,2],
-    "y": [1,2,3,4],
-    "customdata": [1,2,3,4],
+    "x": [1, 2, 1, 2],
+    "y": [1, 2, 3, 4],
+    "customdata": [1, 2, 3, 4],
     "fruit": ["apple", "apple", "orange", "orange"]
 })
 
